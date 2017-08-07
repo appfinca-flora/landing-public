@@ -190,7 +190,8 @@ section {
 }
 
 #real .btn-download:hover {
-  color: #f0ad4e;
+  /*color: #f0ad4e;*/
+  color: #72af3a;
   background-color: #fff;
   border-color: #fff;
 }
