@@ -22,6 +22,6 @@ $(document).ready(function() {
   sr.reveal('.when-1', {});
   sr.reveal('.when-2', {delay: 300});
   sr.reveal('.when-3', {delay: 450});
-  sr.reveal('#real .explanation', {distance: '100px'});
+  sr.reveal('#real .explanation', {duration: 1600, distance: '100px'});
 
 });
