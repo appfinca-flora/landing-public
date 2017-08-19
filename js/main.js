@@ -21,7 +21,7 @@ $(document).ready(function() {
   // Google Analytics
   $('a, button').click(function(e) {
     if (this.id) {
-      ga('send', 'event', 'flora' + window.location.pathname, this.id, referrer);
+      ga('send', 'event', referrer, this.id, 'flora' + window.location.pathname);
     }
   });
 
