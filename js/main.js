@@ -15,6 +15,16 @@ ga('create', 'UA-18358274-5', 'auto');
 ga('send', 'pageview');
 
 $(document).ready(function() {
+  parseQueryString();
+  var referrer = location.queryString.ref || document.referrer;
+
+  // Google Analytics
+  $('a, button').click(function(e) {
+    if (this.id) {
+      ga('send', 'event', 'flora' + window.location.pathname, this.id, referrer);
+    }
+  });
+
   // ScrollReveal settings
   window.sr = ScrollReveal({duration: 600, delay: 150});
   sr.reveal('#how .step', {distance: '50px'});
@@ -22,11 +32,14 @@ $(document).ready(function() {
   sr.reveal('.when-2', {delay: 300});
   sr.reveal('.when-3', {delay: 450});
   sr.reveal('#real .explanation', {duration: 1600, distance: '100px'});
-
-  // Google Analytics
-  $('a, button').click(function(e) {
-    if (this.id) {
-      ga('send', 'event', 'flora' + window.location.pathname, this.id);
-    }
-  });
 });
+
+function parseQueryString() {
+  location.queryString = {};
+  location.search.substr(1).split("&").forEach(function(pair) {
+    if (pair === "")
+      return;
+    var parts = pair.split("=");
+    location.queryString[parts[0]] = parts[1] && decodeURIComponent(parts[1].replace(/\+/g, " "));
+  });
+}
