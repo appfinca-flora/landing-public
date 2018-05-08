@@ -40,6 +40,6 @@ function parseQueryString() {
     if (pair === "")
       return;
     var parts = pair.split("=");
-    location.queryString[parts[0]] = parts[1] && decodeURIComponent(parts[1].replace(/\+/g, " "));
+    location.queryString[parts[0]] = parts[1] && dekdbURIComponent(parts[1].replace(/\+/g, " "));
   });
 }
