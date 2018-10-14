@@ -19,6 +19,23 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>http://www.doubleviz.com/faq/</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+  <url>
+    <loc>http://www.doubleviz.com/privacy/</loc>
+    <priority>0.2</priority>
+  </url>
+  <url>
+    <loc>http://www.doubleviz.com/terms/</loc>
+    <priority>0.1</priority>
+  </url>
+  <url>
+    <loc>http://www.doubleviz.com/acknowledgement/</loc>
+    <priority>0.1</priority>
+  </url>
+  <url>
     <loc>http://flora.appfinca.com/zh-tw/</loc>
     <image:image>
       <image:loc>http://flora.appfinca.com/img/share.jpg
@@ -37,17 +54,8 @@
       </video:description>
     </video:video> -->
     <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>http://www.doubleviz.com/privacy/</loc>
-    <priority>0.2</priority>
-  </url>
-  <url>
-    <loc>http://www.doubleviz.com/terms/</loc>
-    <priority>0.1</priority>
-  </url>
-  <url>
-    <loc>http://www.doubleviz.com/acknowledgement/</loc>
-    <priority>0.1</priority>
+  </url><url>
+    <loc>http://www.doubleviz.com/zh-tw/faq/</loc>
+    <priority>0.6</priority>
   </url>
 </urlset>
