@@ -2,6 +2,8 @@
 <html lang="zh-Hant">
 
 <head>
+  <!-- Localization -->
+  <script src="js/l10n.js"></script>
 
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -44,9 +46,31 @@
       background-color: #3c763d;
     }
   </style>
+
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-71035323-5"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'UA-71035323-5');
+  </script>
+  <!-- Google Tag Manager -->
+  <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+  'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+  })(window,document,'script','dataLayer','GTM-PZQ6LWF');</script>
 </head>
 
 <body>
+  <!-- Google Tag Manager (noscript) -->
+  <noscript>
+    <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-PZQ6LWF"
+  height="0" width="0" style="display:none;visibility:hidden"></iframe>
+  </noscript>
+
   <div class="container pt-3 pb-2 pt-sm-5 pb-sm-4">
     <h1><a href="http://flora.appfinca.com/"><strong>Flora</strong></a> 常見問題</h1>
     <!-- <h6 class="mb-3">Effective Date: August 01, 2017</h6> -->
@@ -124,24 +148,6 @@
     <p>如果您有尚未被回答的問題，請透過 app 內的「意見回饋」功能或是郵件信箱 <a href="mailto:support@flora.appfinca.com">support@flora.appfinca.com</a> 與我們聯絡。</p>
 
   </div>
-
-  <script>
-    // Google Analytics
-    (function(i, s, o, g, r, a, m) {
-      i['GoogleAnalyticsObject'] = r;
-      i[r] = i[r] || function() {
-        (i[r].q = i[r].q || []).push(arguments)
-      }, i[r].l = 1 * new Date();
-      a = s.createElement(o),
-      m = s.getElementsByTagName(o)[0];
-      a.async = 1;
-      a.src = g;
-      m.parentNode.insertBefore(a, m)
-    })(window, document, 'script', 'https://www.google-analytics.com/analytics.js', 'ga');
-
-    ga('create', 'UA-18358274-5', 'auto');
-    ga('send', 'pageview');
-  </script>
 </body>
 
 </html>
