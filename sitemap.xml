@@ -3,55 +3,67 @@
   <url>
     <loc>http://flora.appfinca.com</loc>
     <image:image>
-      <image:loc>http://flora.appfinca.com/img/share.png</image:loc>
-      <image:caption>Flora - a free app that helps you and friends put down the phones and be present.</image:caption>
+      <image:loc>http://flora.appfinca.com/media/social.png</image:loc>
+      <image:caption>Flora - A new way to focus on your tasks, clear to-do lists, and build good habits.</image:caption>
     </image:image>
     <!-- <video:video>
       <video:content_loc>
-        https://www.youtube.com/watch?v=mSZup_fUw-g
+        https://www.youtube.com/...
       </video:content_loc>
-      <video:title>Hop: Meet Friends' Friends, from Heart to Hearts
-      </video:title>
-      <video:description>
-        Hop is an app that helps you connect to your friends of friends, from heart to hearts.
-      </video:description>
+      <video:title>...</video:title>
+      <video:description>...</video:description>
     </video:video> -->
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>http://www.doubleviz.com/faq/</loc>
+    <loc>http://flora.appfinca.com/faq/</loc>
     <priority>0.8</priority>
   </url>
   <url>
   <url>
-    <loc>http://www.doubleviz.com/privacy/</loc>
+    <loc>http://flora.appfinca.com/privacy/</loc>
     <priority>0.2</priority>
   </url>
   <url>
-    <loc>http://www.doubleviz.com/terms/</loc>
+    <loc>http://flora.appfinca.com/terms/</loc>
     <priority>0.1</priority>
   </url>
   <url>
+    <loc>http://flora.appfinca.com/acknowledgements/</loc>
+    <priority>0</priority>
+  </url>
+
+  <url>
     <loc>http://flora.appfinca.com/zh-tw/</loc>
     <image:image>
-      <image:loc>http://flora.appfinca.com/img/share.jpg
+      <image:loc>http://flora.appfinca.com/media/social.jpg
       </image:loc>
-      <image:caption>Flora 是一款免費的 app 幫助你與朋友們放下手機並享受世界。
+      <image:caption>Flora - 用新的方式專注於工作、清空待辦事項、以及樣成好習慣。
       </image:caption>
     </image:image>
     <!-- <video:video>
       <video:content_loc>
-        https://www.youtube.com/watch?v=mSZup_fUw-g
+        https://www.youtube.com/...
       </video:content_loc>
-      <video:title>Hop: 從心開始 認識朋友的朋友
-      </video:title>
-      <video:description>
-        Hop 是一個幫助你認識『朋友的朋友』的 app，從內在出發。
-      </video:description>
+      <video:title>...</video:title>
+      <video:description>...</video:description>
     </video:video> -->
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>http://flora.appfinca.com/zh-tw/faq/</loc>
     <priority>0.8</priority>
-  </url><url>
-    <loc>http://www.doubleviz.com/zh-tw/faq/</loc>
-    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>http://flora.appfinca.com/zh-tw/privacy/</loc>
+    <priority>0.2</priority>
+  </url>
+  <url>
+    <loc>http://flora.appfinca.com/zh-tw/terms/</loc>
+    <priority>0.1</priority>
+  </url>
+  <url>
+    <loc>http://flora.appfinca.com/zh-tw/acknowledgements/</loc>
+    <priority>0</priority>
   </url>
 </urlset>

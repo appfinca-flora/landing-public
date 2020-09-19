@@ -1,0 +1,20 @@
+{
+  "short_name": "Flora FAQ",
+  "name": "Flora FAQ",
+  "icons": [
+    {
+      "src": "/media/icon-192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/media/icon-512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }	    
+  ],
+  "start_url": "/faq",
+  "display": "standalone",
+  "theme_color": "#00ACC1",
+  "background_color": "#EFEFF4"
+}
