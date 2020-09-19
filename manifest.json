@@ -3,12 +3,12 @@
   "name": "Flora FAQ",
   "icons": [
     {
-      "src": "/media/icon-192.png",
+      "src": "/static/media/icon-192.png",
       "type": "image/png",
       "sizes": "192x192"
     },
     {
-      "src": "/media/icon-512.png",
+      "src": "/static/media/icon-512.png",
       "type": "image/png",
       "sizes": "512x512"
     }	    

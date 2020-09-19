@@ -3,7 +3,7 @@
   <url>
     <loc>http://flora.appfinca.com</loc>
     <image:image>
-      <image:loc>http://flora.appfinca.com/media/social.png</image:loc>
+      <image:loc>http://flora.appfinca.com/static/media/social.png</image:loc>
       <image:caption>Flora - A new way to focus on your tasks, clear to-do lists, and build good habits.</image:caption>
     </image:image>
     <!-- <video:video>
@@ -36,7 +36,7 @@
   <url>
     <loc>http://flora.appfinca.com/zh-tw/</loc>
     <image:image>
-      <image:loc>http://flora.appfinca.com/media/social.jpg
+      <image:loc>http://flora.appfinca.com/static/media/social.jpg
       </image:loc>
       <image:caption>Flora - 用新的方式專注於工作、清空待辦事項、以及樣成好習慣。
       </image:caption>
