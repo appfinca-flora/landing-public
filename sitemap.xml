@@ -4,7 +4,7 @@
     <loc>https://flora.appfinca.com</loc>
     <image:image>
       <image:loc>https://flora.appfinca.com/static/media/social.png</image:loc>
-      <image:caption>Flora - A new way to focus on your tasks, clear to-do lists, and build good habits.</image:caption>
+      <image:caption>Flora - A new way to stay off the phohe, clear to-do lists, and build good habits.</image:caption>
     </image:image>
     <!-- <video:video>
       <video:content_loc>
@@ -27,42 +27,8 @@
     <loc>https://flora.appfinca.com/terms/</loc>
     <priority>0.1</priority>
   </url>
-  <url>
+  <!-- <url>
     <loc>https://flora.appfinca.com/acknowledgements/</loc>
     <priority>0</priority>
-  </url>
-
-  <url>
-    <loc>https://flora.appfinca.com/zh-tw/</loc>
-    <image:image>
-      <image:loc>https://flora.appfinca.com/static/media/social.jpg
-      </image:loc>
-      <image:caption>Flora - 用新的方式專注於工作、清空待辦事項、以及樣成好習慣。
-      </image:caption>
-    </image:image>
-    <!-- <video:video>
-      <video:content_loc>
-        https://www.youtube.com/...
-      </video:content_loc>
-      <video:title>...</video:title>
-      <video:description>...</video:description>
-    </video:video> -->
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://flora.appfinca.com/zh-tw/faq/</loc>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://flora.appfinca.com/zh-tw/privacy/</loc>
-    <priority>0.2</priority>
-  </url>
-  <url>
-    <loc>https://flora.appfinca.com/zh-tw/terms/</loc>
-    <priority>0.1</priority>
-  </url>
-  <url>
-    <loc>https://flora.appfinca.com/zh-tw/acknowledgements/</loc>
-    <priority>0</priority>
-  </url>
+  </url> -->
 </urlset>
