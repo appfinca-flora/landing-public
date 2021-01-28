@@ -2,5 +2,8 @@
 User-agent: *
 Allow: /
 Disallow: */acknowledgements/*
+Disallow: */news/*
+Disallow: */tips/*
+Disallow: */fixes/*
 
 Sitemap: https://flora.appfinca.com/sitemap.xml
