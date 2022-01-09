@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "0332c9c409d8118d3014d608fc594f4f",
+    "revision": "8e34dc1a0bfb107db92b7b5f6abc40ce",
     "url": "/index.html"
   },
   {
@@ -32,7 +32,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/css/5.a8b4f5b3.chunk.css"
   },
   {
-    "revision": "e6b28b9c5795b72f58a1",
+    "revision": "e0850c337ce7e0e464d8",
     "url": "/static/css/6.909101f3.chunk.css"
   },
   {
@@ -76,12 +76,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/14.6d2e6d1f.chunk.js"
   },
   {
-    "revision": "9aa19d9fed129c8a1e5d",
-    "url": "/static/js/15.b2b11e2d.chunk.js"
+    "revision": "ddee8d104eee6f3924ea",
+    "url": "/static/js/15.34ca008f.chunk.js"
   },
   {
-    "revision": "1a261e582c8fec586458",
-    "url": "/static/js/16.2f61ae87.chunk.js"
+    "revision": "4a522bd2f8f4db7c6ea2",
+    "url": "/static/js/16.538a4121.chunk.js"
   },
   {
     "revision": "dcbb280c50eac70a36d1",
@@ -100,8 +100,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/5.ef7b5b2d.chunk.js"
   },
   {
-    "revision": "e6b28b9c5795b72f58a1",
-    "url": "/static/js/6.06ce0f0c.chunk.js"
+    "revision": "e0850c337ce7e0e464d8",
+    "url": "/static/js/6.f6eeac7d.chunk.js"
   },
   {
     "revision": "f5c3f3967fbd0d16dcc0",
@@ -120,8 +120,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/main.010093de.chunk.js"
   },
   {
-    "revision": "2867baad4c882b95d81a",
-    "url": "/static/js/runtime-main.979319b4.js"
+    "revision": "ea094a1b07f5a79ba220",
+    "url": "/static/js/runtime-main.dcdcf388.js"
   },
   {
     "revision": "cab2eac60acd879c5b5d0b3c70ec913b",
@@ -284,7 +284,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/widget.ea20fdcc.png"
   },
   {
-    "revision": "c6b38312ee6567b73a11a78911bf9374",
-    "url": "/static/media/world.c6b38312.png"
+    "revision": "ff8d7691e41f10c7c5aa2bf3a810463c",
+    "url": "/static/media/world.ff8d7691.png"
   }
 ]);
