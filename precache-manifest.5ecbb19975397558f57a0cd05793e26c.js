@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "8e34dc1a0bfb107db92b7b5f6abc40ce",
+    "revision": "916ecb81f637910dfb58449d499d15d2",
     "url": "/index.html"
   },
   {
@@ -32,7 +32,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/css/5.a8b4f5b3.chunk.css"
   },
   {
-    "revision": "e0850c337ce7e0e464d8",
+    "revision": "453ef9fb7d3cc7e398a2",
     "url": "/static/css/6.909101f3.chunk.css"
   },
   {
@@ -48,7 +48,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/css/9.996f9975.chunk.css"
   },
   {
-    "revision": "9d9b91d22a81992e5a3c",
+    "revision": "f52f0002d0e6c2e73532",
     "url": "/static/css/main.ed3acdaf.chunk.css"
   },
   {
@@ -100,8 +100,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/5.ef7b5b2d.chunk.js"
   },
   {
-    "revision": "e0850c337ce7e0e464d8",
-    "url": "/static/js/6.f6eeac7d.chunk.js"
+    "revision": "453ef9fb7d3cc7e398a2",
+    "url": "/static/js/6.b5bef13b.chunk.js"
   },
   {
     "revision": "f5c3f3967fbd0d16dcc0",
@@ -116,12 +116,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/9.8c459c61.chunk.js"
   },
   {
-    "revision": "9d9b91d22a81992e5a3c",
-    "url": "/static/js/main.010093de.chunk.js"
+    "revision": "f52f0002d0e6c2e73532",
+    "url": "/static/js/main.c5abc0f5.chunk.js"
   },
   {
-    "revision": "ea094a1b07f5a79ba220",
-    "url": "/static/js/runtime-main.dcdcf388.js"
+    "revision": "933287f1b6de5c3bd51a",
+    "url": "/static/js/runtime-main.f2feb0da.js"
   },
   {
     "revision": "cab2eac60acd879c5b5d0b3c70ec913b",
@@ -284,7 +284,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/widget.ea20fdcc.png"
   },
   {
-    "revision": "ff8d7691e41f10c7c5aa2bf3a810463c",
-    "url": "/static/media/world.ff8d7691.png"
+    "revision": "0aba8cdc74a06712f90208da37e1db46",
+    "url": "/static/media/world.0aba8cdc.png"
   }
 ]);
